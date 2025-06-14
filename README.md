@@ -1,16 +1,21 @@
-## Hi there 👋
+Luís Cupido – Finance, Trading & Data Projects
 
-<!--
-**kinjuk/kinjuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. This space highlights my work at the intersection of finance, technology, and data — from personal projects to practical tools and experiments.
 
-Here are some ideas to get you started:
+🚀 What You'll Find Here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Quantitative trading strategies and backtests
+
+📊 Financial modeling & investment analysis
+
+⚙️ Automation tools and trade support utilities
+
+🗃️ Market data processing pipelines
+
+🐍 Python, SQL & Excel-based analytics
+
+I'm currently focused on algorithmic trading and quantitative finance, and always exploring ways to bridge analytical thinking with real-world markets.
+
+🤝 Let’s Connect
+
+Whether you're into data, finance, or code — feel free to reach out!
