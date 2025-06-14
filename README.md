@@ -18,4 +18,4 @@ I'm currently focused on algorithmic trading and quantitative finance, and alway
 
 🤝 Let’s Connect
 
-Whether you're into data, finance, or code — feel free to reach out!
+Whether you're into data, finance, or code, feel free to reach out!
