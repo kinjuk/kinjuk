@@ -1,6 +1,6 @@
 Luís Cupido – Finance, Trading & Data Projects
 
-Welcome to my GitHub profile. This space highlights my work at the intersection of finance, technology, and data — from personal projects to practical tools and experiments.
+Welcome to my GitHub profile. This space highlights my personal projects, practical tools and experiments.
 
 🚀 What You'll Find Here
 
